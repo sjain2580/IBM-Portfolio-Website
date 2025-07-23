@@ -10,13 +10,17 @@ It demonstrates key concepts learned in front-end development, focusing on struc
 
 ## Features
 * Incorporates JavaScript for dynamic content or user interactions (e.g., a simple form, image carousel, navigation menu toggling).
+
 * Well-structured HTML5 for accessibility and maintainability.
+
 * Utilizes CSS3 for visual appeal, layout management.
 
 
 ## Technologies Used
 * **HTML5:** For structuring the web content.
+
 * **CSS3:** For styling and layout.
+
 * **JavaScript (ES6+):** For dynamically changing content.
 
 ## How to run the Project
@@ -27,10 +31,12 @@ To view this project locally on your machine:
     git clone https://github.com/sjain2580/IBM-Single-Page-Portfolio-Website.git
     ```
     (Replace `YourGitHubUsername` and `your-repo-name` with your actual details)
+
 2.  **Navigate to the project directory:**
     ```bash
     cd your-repo-name
     ```
+    
 3.  **Open the `index.html` file in your web browser:**
 
 ## Live Deployment
