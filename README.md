@@ -30,7 +30,6 @@ To view this project locally on your machine:
     ```bash
     git clone https://github.com/sjain2580/IBM-Single-Page-Portfolio-Website.git
     ```
-    (Replace `YourGitHubUsername` and `your-repo-name` with your actual details)
 
 2.  **Navigate to the project directory:**
     ```bash
