@@ -33,7 +33,7 @@ To view this project locally on your machine:
 
 2.  **Navigate to the project directory:**
     ```bash
-    cd your-repo-name
+    cd IBM-Single-Page-Portfolio-Website
     ```
     
 3.  **Open the `index.html` file in your web browser:**
