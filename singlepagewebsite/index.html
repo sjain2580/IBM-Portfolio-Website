@@ -1,6 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sakshi Jain - Portfolio</title>
     <link rel="stylesheet" href="./style.css"/>
     <script src="./script.js"></script>
@@ -15,7 +17,7 @@
             <img src="html_finalprojimages/envelope.png" alt="https://icons8.com/icon/124377/circled-envelope"/>
           sjain040395@gmail.com
         </div>
-        <div style="clear:both;"></div>
+        <div class="clear"></div>
         <div class="contact_info">
           <img src="html_finalprojimages/phone.png" alt="https://icons8.com/icon/124377/circled-envelope"/>
           +91 9066859325
@@ -34,12 +36,12 @@
     <!-- About Me -->
     <section id="about-me" class="container">
       <div>
-        <img src="Sakshi.png" class="profile_image"/>
+        <img src="Sakshi.png" class="profile_image" alt="Sakshi Jain profile picture"/>
       </div>
 
       <div>
           <h1>
-            Hi, I'm Sakshi Jain! <img src="html_finalprojimages/waving-hand.png" width="60px"/>
+            Hi, I'm Sakshi Jain! <img src="html_finalprojimages/waving-hand.png" width="60px" alt="Waving hand"/>
           </h1>
           <p> I'm a dedicated software engineer with over 3 years of comprehensive experience in automation testing and software development. My experience includes developing customer-specific software solutions, optimizing test frameworks, and establishing robust CI/CD pipelines that improve development efficiency and software quality. </p>
       </div>
@@ -52,20 +54,30 @@
 
       <div class="all_skills">
         <div class="skill">
-          <img src="html_finalprojimages/html5.png"/>
+          <img src="html_finalprojimages/html5.png" alt="HTML5 logo"/>
           <h6>HTML</h6>
           <p>2 years experience</p>
         </div>  
 
         <div class="skill">
-          <img src="html_finalprojimages/js.jpeg"/>
+          <img src="html_finalprojimages/js.jpeg" alt="JavaScript logo"/>
           <h6>JavaScript</h6>
           <p>3 years experience</p>
         </div>  
+        <div class="skill">
+          <img src="html_finalprojimages/css3.png" alt="CSS3 logo"/> <h6>CSS</h6>
+          <p>2.5 years experience</p>
+        </div> 	
 
-        <!-- Add more skills here -->
+        <div class="skill">
+          <img src="html_finalprojimages/react.png" alt="React logo"/> <h6>React</h6>
+          <p>1.5 years experience</p>
+        </div> 	
 
-
+        <div class="skill">
+          <img src="html_finalprojimages/node.png" alt="Node.js logo"/> <h6>Node.js</h6>
+          <p>1 year experience</p>
+        </div>
       </div>
     </section>
           
@@ -78,23 +90,23 @@
 
         <div id="projects-container" class="projects-container">
           <div class="project-card">
-            <h3>Chatbot</h3>
+            <h3>Sentiment analysis</h3>
             <ul>
-              <li>Developed a secure website integrated with chatbot for an automobile client using HTML, CSS, JavaScript and IBM Watson Assistant</li>
+              <li>Developed a web-based sentiment analysis tool designed to evaluate the sentiment of text reviews (e.g., positive, neutral, negative) and provide tailored suggestions. Users can input reviews manually or upload a CSV/TXT file, and the tool processes the data to display results in a table, including the review, and a suggestion.</li>
             </ul>
           </div>
           <hr>
           <div class="project-card">
-            <h3>Sentiment Analyzer</h3>
+            <h3>Face Recognition Web Application</h3>
             <ul>
-              <li>Developed and deployed a sentiment analyzer for the box reviews section of an eCommerce platform using IBM NLU</li>
+              <li>Developed a web application using OpenCV Python library, capturing faces and automatically marking attendance for students and staff, offering an efficient attendance management solution.</li>
             </ul>
           </div>
           <hr>
           <div class="project-card">
-            <h3>Fashion Website</h3>
+            <h3>Movie Recommender System</h3>
             <ul>
-              <li>Created a styled multi-page website for a new player in the fashion industry and integrated it with a shopping cart, using stripe for payment gateway</li>
+              <li>Developed a Python-based movie recommendation system that uses user preferences and movie characteristics to offer personalized recommendations, with an intuitive Streamlit interface for user interaction.</li>
             </ul>
           </div>
     </div>
@@ -146,14 +158,18 @@
     </section>
 
     <div class="iconbutton">
-      <a href="#home">
+      <a href="#home" title="Go to home">
         <!--Add the code here for the logo to appear and the icon to be actionable-->
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="white" width="63px">
+          <circle cx="12" cy="12" r="10" fill="purple" />
+          <path stroke-linecap="round" stroke-linejoin="round" d="M15 11.25l-3-3m0 0l-3 3m3-3v7.5M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+        </svg>
       </a>
     </div>
 
     <div class="popup" id="popup" class="flex_center">
-      <img src="html_finalprojimages/checkmark--outline.svg"/>
-      <h3><!-- Add appropriate text here--></h3>
+      <img src="html_finalprojimages/checkmark--outline.svg" alt="Checkmark icon"/>
+      <h3>Thanks for leaving a recommendation!</h3>
       <button onclick="showPopup(false)">Ok</button>
     </div>
   </body>
