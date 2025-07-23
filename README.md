@@ -1,4 +1,4 @@
-**IBM-Single-Page-Portfolio-Website**
+![IBM-Single-Page-Portfolio-Website](./assets/IBM_Course.png)
 
 ## Overview
 
