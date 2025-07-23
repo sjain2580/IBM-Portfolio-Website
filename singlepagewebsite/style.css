@@ -37,7 +37,7 @@ body {
 .profile_name {
   float: left;
   padding-left: 2cm;
-  /* Add the styles here */
+  color: white;
 }
 
 .profile_name .contact_info {
@@ -159,10 +159,9 @@ h2 {
 }
 
 /* Projects */
-
 .projects-container {
-  margin-top: 30px;
-  margin-left: 60px;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 .projects-container hr {
