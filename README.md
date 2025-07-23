@@ -1,4 +1,5 @@
-### IBM-Single-Page-Portfolio-Website
+**IBM-Single-Page-Portfolio-Website**
+
 ## Overview
 
 This repository showcases my foundational understanding and practical application of web development essentials: HTML, CSS, and JavaScript. This project was developed as part of the **"Introduction to HTML, CSS, & JavaScript"** online non-credit course, authorized by IBM and offered through Coursera.
@@ -39,7 +40,7 @@ I successfully completed the **"Introduction to HTML, CSS, & JavaScript"** cours
 **https://www.coursera.org/account/accomplishments/verify/6RL850VT1EJK**
 
 ## Contributors
-- [Your Name](https://github.com/sjain2580)
+**https://github.com/sjain2580**
 
 ## Connect with Me
 Feel free to reach out if you have any questions or just want to connect!
