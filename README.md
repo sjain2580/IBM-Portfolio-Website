@@ -40,7 +40,7 @@ To view this project locally on your machine:
 3.  **Open the `index.html` file in your web browser:**
 
 ## Live Deployment
-Check the live app here - **https://sjain2580.github.io/IBM-Single-Page-Portfolio-Website/singlepagewebsite/index.html**
+Check the live app here - **https://sjain2580.github.io/IBM-Portfolio-Website/singlepagewebsite/index.html**
 
 ## Course Completion Certificate
 I successfully completed the **"Introduction to HTML, CSS, & JavaScript"** course from Coursera authorized by IBM.
