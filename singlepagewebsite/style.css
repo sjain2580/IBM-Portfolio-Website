@@ -176,6 +176,7 @@ h2 {
   padding-bottom: 5px;
 }
 
+
 .project-card h3 {
   font-size: 25px;
   margin-left: 30px;
@@ -183,7 +184,7 @@ h2 {
 
 .project-card li {
   font-size: 20px;
-  margin-left: 30px;
+  margin-left: 50px;
 }
 
 /* Recommendations */
@@ -320,4 +321,10 @@ button:hover {
   border-radius: 6px;
   text-align: center;
   cursor: pointer;
+}
+
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
 }
