@@ -23,7 +23,7 @@ It demonstrates key concepts learned in front-end development, focusing on struc
 
 * **JavaScript (ES6+):** For dynamically changing content.
 
-## How to run the Project
+## How to Run the Project
 To view this project locally on your machine:
 
 1.  **Clone the repository:**
