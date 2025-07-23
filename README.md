@@ -38,6 +38,9 @@ Check the live app here - **https://sjain2580.github.io/IBM-Single-Page-Portfoli
 I successfully completed the **"Introduction to HTML, CSS, & JavaScript"** course from Coursera authorized by IBM.
 **https://www.coursera.org/account/accomplishments/verify/6RL850VT1EJK**
 
+## Contributors
+- [Your Name](https://github.com/sjain2580)
+
 ## Connect with Me
 Feel free to reach out if you have any questions or just want to connect!
 **[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sjain04/)**
